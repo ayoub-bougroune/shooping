@@ -2,11 +2,13 @@
   "expo": {
     "name": "shooping",
     "slug": "shooping",
+    "privacy":"public",
+    "description" : "Showing airpods app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "orientation": "default",
+    "icon": "./assets/cc.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ff.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
